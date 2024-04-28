@@ -52,7 +52,7 @@
 <hr>
 
 <p>
-  <i<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-aalsan-jaas&show_icons=true&locale=en&layout=compact" alt="r-aalsan-jaas" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-aalsan-jaas&show_icons=true&locale=en&layout=compact" alt="r-aalsan-jaas" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-aalsan-jaas&show_icons=true&locale=en" alt="r-aalsan-jaas" />
