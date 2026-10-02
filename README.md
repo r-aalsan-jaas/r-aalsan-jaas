@@ -1,6 +1,8 @@
-<!-- TOP TERMINAL HUD -->
+<!-- TOP TERMINAL HUD (CLICK DISABLED SO IT DOES NOT OPEN ASSETS) -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="System Header" />
+  <a href="https://github.com/r-aalsan-jaas">
+    <img src="./assets/header.svg" width="100%" alt="System Header" />
+  </a>
 </div>
 
 <!-- INTERACTIVE ACTION BAR -->
@@ -10,11 +12,11 @@
     <img src="https://img.shields.io/badge/EXPLORE_WORK-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00" alt="Work" />
   </a>
   &nbsp;
-  <a href="#about-manifesto">
+  <a href="#02-manifesto">
     <img src="https://img.shields.io/badge/MANIFESTO-%5B%5D-111111?style=for-the-badge&logoColor=C8FF00&labelColor=111111" alt="Manifesto" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-actual-email@gmail.com">
     <img src="https://img.shields.io/badge/START_PROJECT-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00" alt="Contact" />
   </a>
 </p>
@@ -32,3 +34,15 @@
 <p align="center">
   <code>[ SYS_STATUS : ONLINE | CORE_PIPELINE : ACTIVE ]</code>
 </p>
+
+---
+
+### 📑 `//02_MANIFESTO`
+
+> **THE FUTURE ISN'T MINIMAL. IT'S SYSTEMATIC.**  
+> Cyber Brutalism is raw, digital, and functional. Building scalable architectures, reliable automation pipelines, and robust backend engineering without fluff.
+
+```yaml
+STATUS   : Available for high-impact projects
+SYSTEM   : Linux / Termux / Git / Python / Full-Stack
+LOCATION : UTC+05:30
