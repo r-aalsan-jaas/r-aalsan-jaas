@@ -22,13 +22,10 @@
 
 <!-- ==================== /03 SELECTED WORK ==================== -->
 <a name="03-selected-work"></a>
-<div align="center">
-  <a href="https://github.com/r-aalsan-jaas?tab=repositories">
-    <img src="./assets/work.svg" width="100%" alt="Selected Work" />
-  </a>
-</div>
+### `/03` SELECTED WORK
 
-<br/>
+| [![](./assets/card_data_portal.svg)](https://github.com/r-aalsan-jaas/canteen-management) | [![](./assets/card_neural_net.svg)](https://github.com/r-aalsan-jaas/Make-Up-a-Letter) | [![](./assets/card_void_system.svg)](https://github.com/r-aalsan-jaas) | [![](./assets/card_gridline.svg)](https://github.com/r-aalsan-jaas) |
+| :---: | :---: | :---: | :---: |
 
 ---
 
