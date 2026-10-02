@@ -49,12 +49,12 @@
     <!-- Telemetry Bar 2 -->
     <text x="25" y="115" class="mono muted" font-size="11">MEMORY</text>
     <line x1="115" y1="112" x2="250" y2="112" stroke="#222222"/>
-    <text x="255" y="115" class="mono light" font-size="11">8.6 GB / 16 GB</text>
+    <text x="255" y="115" class="mono light" font-size="11">12 REPOS // 2 FOLLOWERS</text>
 
     <!-- Telemetry Bar 3 -->
     <text x="25" y="145" class="mono muted" font-size="11">UPTIME</text>
     <line x1="115" y1="142" x2="250" y2="142" stroke="#222222"/>
-    <text x="255" y="145" class="mono light" font-size="11">7D 14H 22M</text>
+    <text x="255" y="145" class="mono light" font-size="11">12:28:07 UTC</text>
 
     <!-- Telemetry Bar 4 -->
     <text x="25" y="175" class="mono muted" font-size="11">NETWORK</text>
