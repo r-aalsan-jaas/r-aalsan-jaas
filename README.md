@@ -1,18 +1,6 @@
-<!-- CYBER BRUTALIST TOP HUD -->
-<div align="center">
-  <img src="./assets/header_v3.svg" width="100%" alt="Header HUD" />
-</div>
-
-<!-- SEAMLESS CLICKABLE NAVIGATION GRID -->
 <div align="center">
   <a href="https://github.com/r-aalsan-jaas?tab=repositories">
-    <img src="./assets/btn_explore.svg" width="33.3%" alt="Explore Work" style="display:inline-block; border:none;" />
-  </a>
-  <a href="#02-core-principles">
-    <img src="./assets/btn_principles.svg" width="33.3%" alt="Manifesto" style="display:inline-block; border:none;" />
-  </a>
-  <a href="mailto:your-actual-email@gmail.com">
-    <img src="./assets/btn_contact.svg" width="33.3%" alt="Start Project" style="display:inline-block; border:none;" />
+    <img src="./assets/header.svg" width="100%" alt="Header HUD" />
   </a>
 </div>
 
