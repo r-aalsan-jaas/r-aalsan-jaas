@@ -16,5 +16,5 @@
     <img src="./assets/work.svg" width="100%" alt="Selected Work" />
   </a>
   
-  <img src="./assets/bottom_deck.svg" width="100%" alt="System Telemetry and Footer" />
+  <img src="./assets/bottom_deck.svg?v=2" width="100%" alt="System Telemetry and Footer" />
 </div>
