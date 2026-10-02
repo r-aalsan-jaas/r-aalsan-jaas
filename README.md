@@ -1,25 +1,32 @@
-<!-- TOP TERMINAL HUD (CLICK DISABLED SO IT DOES NOT OPEN ASSETS) -->
+<!-- TOP TERMINAL HUD -->
 <div align="center">
   <a href="https://github.com/r-aalsan-jaas">
     <img src="./assets/header.svg" width="100%" alt="System Header" />
   </a>
 </div>
 
-<!-- INTERACTIVE ACTION BAR -->
+<!-- VERTICAL SPACING -->
+<br/>
+<br/>
+
+<!-- LOWERED ACTION BAR -->
 <p align="center">
-  <code>// NAV_DOCK: ACTIVE</code> &nbsp;&nbsp;
+  <code>// NAV_DOCK: ACTIVE</code> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/r-aalsan-jaas?tab=repositories">
     <img src="https://img.shields.io/badge/EXPLORE_WORK-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00" alt="Work" />
   </a>
-  &nbsp;
-  <a href="#02-manifesto">
+  &nbsp;&nbsp;
+  <a href="#02_manifesto">
     <img src="https://img.shields.io/badge/MANIFESTO-%5B%5D-111111?style=for-the-badge&logoColor=C8FF00&labelColor=111111" alt="Manifesto" />
   </a>
-  &nbsp;
-  <a href="mailto:your-actual-email@gmail.com">
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/START_PROJECT-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00" alt="Contact" />
   </a>
 </p>
+
+<!-- VERTICAL SPACING -->
+<br/>
 
 ---
 
@@ -37,6 +44,7 @@
 
 ---
 
+<a name="02_manifesto"></a>
 ### 📑 `//02_MANIFESTO`
 
 > **THE FUTURE ISN'T MINIMAL. IT'S SYSTEMATIC.**  
