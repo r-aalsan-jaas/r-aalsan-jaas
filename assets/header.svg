@@ -1,1 +1,136 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background grid pattern -->
+    <pattern id="brutalist_grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+      <circle cx="40" cy="0" r="1.5" fill="#222222" />
+    </pattern>
+  </defs>
 
+  <style>
+    .mono { font-family: 'Courier New', Courier, 'Fira Code', monospace; }
+    .sans { font-family: 'Impact', 'Arial Black', -apple-system, BlinkMacSystemFont, sans-serif; }
+    .neon { fill: #C8FF00; }
+    .muted { fill: #7E7E7E; }
+    .dim { fill: #333333; }
+    .light { fill: #EAEAEA; }
+  </style>
+
+  <!-- Canvas Background -->
+  <rect width="1200" height="620" fill="#080808"/>
+  <rect width="1200" height="620" fill="url(#brutalist_grid)" />
+
+  <!-- Outer Border Frame -->
+  <rect x="15" y="15" width="1170" height="590" fill="none" stroke="#1F1F1F" stroke-width="2"/>
+
+  <!-- ==================== TOP NAVIGATION BAR ==================== -->
+  <!-- Top Left: CYBR Badge -->
+  <rect x="35" y="32" width="110" height="34" fill="#C8FF00"/>
+  <text x="50" y="54" fill="#000000" class="mono" font-size="13" font-weight="900" letter-spacing="1.5">GAMBYT_</text>
+
+  <!-- Nav links -->
+  <text x="180" y="54" class="mono light" font-size="11" letter-spacing="2">WORK  +  SERVICES  +  ABOUT  +  LABS  +  CONTACT</text>
+
+  <!-- Top Status Widget -->
+  <text x="820" y="46" class="mono muted" font-size="9" letter-spacing="1">SYS_TIME</text>
+  <text x="820" y="58" class="mono light" font-size="10">23:47:12 UTC+0</text>
+
+  <!-- Top Right: Start a Project Button -->
+  <rect x="990" y="32" width="175" height="34" fill="#C8FF00"/>
+  <text x="1012" y="54" fill="#000000" class="mono" font-size="11" font-weight="800" letter-spacing="1.5">START A PROJECT ↗</text>
+
+  <!-- Horizontal divider line under nav -->
+  <line x1="15" y1="85" x2="1185" y2="85" stroke="#1F1F1F" stroke-width="1.5"/>
+
+  <!-- ==================== LEFT VERTICAL STRIP ==================== -->
+  <line x1="75" y1="85" x2="75" y2="605" stroke="#181818" stroke-width="1"/>
+  
+  <text x="45" y="140" class="mono muted" font-size="12">/01</text>
+  <text x="45" y="170" class="mono muted" font-size="14">|</text>
+  <text x="45" y="185" class="mono muted" font-size="14">|</text>
+  <text x="45" y="200" class="mono muted" font-size="14">|</text>
+
+  <g transform="rotate(-90 52 380)">
+    <text x="52" y="380" class="mono neon" font-size="10" letter-spacing="3">DEV SYSTEM ARCH</text>
+  </g>
+  <g transform="rotate(-90 52 510)">
+    <text x="52" y="510" class="mono muted" font-size="10" letter-spacing="2">2026 // EDITION</text>
+  </g>
+
+  <!-- ==================== HERO CONTENT (LEFT COLUMN) ==================== -->
+  <!-- Name (Large Cyber Brutalism Headline) -->
+  <text x="120" y="195" class="sans light" font-size="78" font-weight="900" letter-spacing="2">R AALSAN</text>
+  <text x="120" y="275" class="sans light" font-size="78" font-weight="900" letter-spacing="2">JAAS</text>
+
+  <!-- Headline / Subtitle -->
+  <text x="120" y="335" class="mono neon" font-size="16" font-weight="700" letter-spacing="1.5">THE CODE ISN'T ACCIDENTAL. IT'S SYSTEMATIC.</text>
+
+  <!-- About Me / Body Paragraph -->
+  <text x="120" y="375" class="mono muted" font-size="13">Software Engineer crafting raw, functional, and high-performance</text>
+  <text x="120" y="398" class="mono muted" font-size="13">systems. Turning complex logic into uncompromised digital architecture.</text>
+  <text x="120" y="421" class="mono muted" font-size="13">Modular workflows, automated pipelines, and relentless execution.</text>
+
+  <!-- Call-to-Action Buttons -->
+  <rect x="120" y="465" width="180" height="42" fill="#C8FF00"/>
+  <text x="145" y="491" fill="#000000" class="mono" font-size="12" font-weight="900" letter-spacing="1">EXPLORE WORK  ↗</text>
+
+  <rect x="320" y="465" width="170" height="42" fill="#0E0E0E" stroke="#2B2B2B" stroke-width="1.5"/>
+  <text x="350" y="491" class="mono light" font-size="12" font-weight="700" letter-spacing="1">VIEW MANIFESTO</text>
+  <!-- Bracket accents -->
+  <text x="468" y="490" class="mono neon" font-size="12">[]</text>
+
+  <!-- ==================== GRAPHIC / TELEMETRY (RIGHT COLUMN) ==================== -->
+  <!-- Crosshairs and Coordinates -->
+  <text x="680" y="125" class="mono muted" font-size="10">> RENDERING...</text>
+  <text x="800" y="125" class="mono neon" font-size="10">87%</text>
+
+  <g transform="translate(1080, 110)">
+    <circle cx="15" cy="15" r="14" stroke="#333333" stroke-dasharray="2 2" fill="none"/>
+    <ellipse cx="15" cy="15" rx="14" ry="5" stroke="#333333" fill="none"/>
+    <line x1="15" y1="0" x2="15" y2="30" stroke="#333333"/>
+  </g>
+
+  <!-- Wireframe Head / Avatar Graphic Frame -->
+  <rect x="680" y="150" width="460" height="380" fill="#050505" stroke="#1D1D1D" stroke-width="1"/>
+  
+  <!-- Subtle interior perspective grid inside the box -->
+  <path d="M 680 530 L 850 310 L 970 310 L 1140 530" stroke="#151515" stroke-width="1" fill="none"/>
+  <line x1="680" y1="420" x2="1140" y2="420" stroke="#121212" stroke-width="1"/>
+  <line x1="850" y1="150" x2="850" y2="530" stroke="#121212" stroke-width="1"/>
+  <line x1="970" y1="150" x2="970" y2="530" stroke="#121212" stroke-width="1"/>
+
+  <!-- Center Wireframe / Glitch Face Motif -->
+  <g transform="translate(810, 190)" stroke="#C8FF00" stroke-width="1" fill="none">
+    <!-- Stylized digital skull / head contour -->
+    <path d="M 50 20 Q 95 20 120 60 T 110 140 Q 95 190 70 210 Q 50 210 30 190 Q 5 140 0 60 Q 20 20 50 20 Z" opacity="0.4"/>
+    <line x1="10" y1="70" x2="110" y2="70" opacity="0.3"/>
+    <line x1="20" y1="100" x2="100" y2="100" opacity="0.5"/>
+    <line x1="30" y1="130" x2="90" y2="130" opacity="0.3"/>
+    <line x1="40" y1="160" x2="80" y2="160" opacity="0.6"/>
+    <!-- Glitch / Offset polygons -->
+    <polygon points="40,50 80,50 70,80 30,80" fill="#C8FF00" fill-opacity="0.1" stroke="#C8FF00" opacity="0.7"/>
+    <polygon points="45,90 75,90 70,110 40,110" fill="#C8FF00" fill-opacity="0.2"/>
+  </g>
+
+  <!-- Coordinates Card (Neon Accent Box) -->
+  <rect x="990" y="320" width="130" height="70" fill="#0A0A0A" stroke="#222222" stroke-width="1"/>
+  <rect x="990" y="320" width="3" height="70" fill="#C8FF00"/>
+  <text x="1005" y="340" class="mono neon" font-size="9">X_36.1749</text>
+  <text x="1005" y="358" class="mono neon" font-size="9">Y_-86.7676</text>
+  <text x="1005" y="376" class="mono neon" font-size="9">Z_46.6827</text>
+
+  <!-- Vertical Barcode Accent -->
+  <g transform="translate(640, 270)">
+    <rect x="0" y="0" width="2" height="120" fill="#555555"/>
+    <rect x="4" y="0" width="5" height="120" fill="#555555"/>
+    <rect x="12" y="0" width="1" height="120" fill="#555555"/>
+    <rect x="16" y="0" width="3" height="120" fill="#555555"/>
+    <rect x="22" y="0" width="6" height="120" fill="#555555"/>
+    <rect x="31" y="0" width="2" height="120" fill="#555555"/>
+    <rect x="35" y="0" width="4" height="120" fill="#555555"/>
+  </g>
+
+  <!-- Bottom right technical label -->
+  <text x="1060" y="555" class="mono muted" font-size="11" letter-spacing="1.5">//SCN_01</text>
+  <line x1="680" y1="565" x2="1140" y2="565" stroke="#1A1A1A" stroke-width="1"/>
+</svg>
