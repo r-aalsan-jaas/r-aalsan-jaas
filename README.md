@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" width="100%" alt="R Aalsan Jaas // GAMBYT" />
   
   <p align="center">
-    &nbsp;
+    <code>// DOCK:</code> &nbsp;
     <a href="#03-selected-work"><img src="https://img.shields.io/badge/EXPLORE_WORK-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00" alt="EXPLORE WORK" /></a> &nbsp;
     <a href="#02-core-principles"><img src="https://img.shields.io/badge/VIEW_MANIFESTO-%5B%5D-111111?style=for-the-badge&logoColor=EAEAEA&labelColor=111111" alt="VIEW MANIFESTO" /></a> &nbsp;
     <a href="mailto:raalsanjaas@gmail.com"><img src="https://img.shields.io/badge/START_A_PROJECT-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00" alt="START A PROJECT" /></a>
