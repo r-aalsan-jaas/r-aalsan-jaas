@@ -1,1 +1,6 @@
-
+<svg width="360" height="50" viewBox="0 0 360 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>.mono { font-family: monospace; }</style>
+  <rect width="360" height="50" fill="#080808"/>
+  <rect x="1" y="1" width="358" height="48" fill="#0D0D0D" stroke="#1F1F1F" stroke-width="1"/>
+  <text x="180" y="31" fill="#EAEAEA" class="mono" font-size="14" font-weight="900" letter-spacing="1.5" text-anchor="middle">CORE PRINCIPLES // []</text>
+</svg>
