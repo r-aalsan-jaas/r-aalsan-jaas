@@ -1,1 +1,50 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: 'Courier New', Courier, 'Fira Code', monospace; }
+    .neon { fill: #C8FF00; }
+    .light { fill: #EAEAEA; }
+    .muted { fill: #7E7E7E; }
+    .hazard { fill: url(#hazard_pattern); }
+  </style>
+  <defs>
+    <pattern id="hazard_pattern" patternUnits="userSpaceOnUse" width="10" height="10" patternTransform="rotate(45)">
+      <rect width="5" height="10" fill="#080808"/>
+      <rect x="5" width="5" height="10" fill="#1F1F1F"/>
+    </pattern>
+  </defs>
 
+  <!-- Canvas Background -->
+  <rect width="1200" height="420" fill="#080808"/>
+
+  <!-- Branding HUD -->
+  <text x="35" y="45" class="mono light" font-size="12" font-weight="900" letter-spacing="2">R AALSAN JAAS</text>
+  <text x="35" y="60" class="mono muted" font-size="10">@r-aalsan-jaas // ARCHITECT_v0.2</text>
+  <text x="1100" y="45" class="mono neon" font-size="11" font-weight="900">UTC+05:30</text>
+  <text x="1100" y="60" class="mono light" font-size="10">KERALA_INDIA // THIRUVANANTHAPURAM</text>
+  <rect x="20" y="30" width="1160" height="40" stroke="#1F1F1F" stroke-width="1.5"/>
+
+  <!-- Core Content & Manifesto Block -->
+  <text x="75" y="110" class="mono muted" font-size="12">THE MANIFESTO</text>
+  <text x="75" y="140" class="mono light" font-size="20" font-weight="900" letter-spacing="1">THE FUTURE ISN'T MINIMAL. IT'S SYSTEMATIC.</text>
+  <text x="75" y="180" class="mono muted" font-size="13">Cyber Brutalism is raw, digital, and function over form.</text>
+  <text x="75" y="200" class="mono muted" font-size="13">A visual language for the machine age, built on</text>
+  <text x="75" y="220" class="mono muted" font-size="13">uncompromising logic and modular workflows.</text>
+
+  <!-- Coordinates HUD -->
+  <text x="1080" y="110" class="mono light" font-size="11">X // 36.1749</text>
+  <text x="1080" y="130" class="mono neon" font-size="11">Y // -86.7676</text>
+  <text x="1080" y="150" class="mono light" font-size="11">Z // 46.6827</text>
+
+  <!-- Central Design: The Wireframe Cube -->
+  <line x1="600" y1="80" x2="1190" y2="80" stroke="#1F1F1F" stroke-width="1"/>
+  <rect x="650" y="90" width="400" height="300" stroke="#1C1C1C" stroke-width="1" stroke-dasharray="2 2"/>
+  <path d="M 850 140 L 980 200 L 850 260 L 720 200 Z" fill="none" stroke="#C8FF00" stroke-width="1"/>
+  <path d="M 720 200 L 720 310 L 850 370 L 850 260 Z" fill="none" stroke="#C8FF00" stroke-width="1"/>
+  <path d="M 980 200 L 980 310 L 850 370 L 850 260 Z" fill="none" stroke="#C8FF00" stroke-width="1"/>
+  <line x1="850" y1="260" x2="850" y2="370" stroke="#C8FF00" stroke-width="1"/>
+
+  <!-- Status / Navigation Text Zone -->
+  <line x1="20" y1="380" x2="1180" y2="380" stroke="#1F1F1F" stroke-width="1"/>
+  <text x="35" y="405" class="mono mutated" font-size="11" letter-spacing="1.5">NODE_PIPELINE // ACTIVE</text>
+  <text x="490" y="405" class="mono neon" font-size="11">&gt; STANDBY_FOR_COMMAND_</text>
+</svg>
