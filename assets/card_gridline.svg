@@ -1,1 +1,11 @@
-
+<svg width="270" height="230" viewBox="0 0 270 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>.mono { font-family: monospace; }</style>
+  <rect width="270" height="230" fill="#0D0D0D" stroke="#222222" stroke-width="1.2"/>
+  <rect x="15" y="15" width="240" height="130" fill="#0A0A0A" stroke="#1C1C1C"/>
+  <circle cx="135" cy="80" r="40" fill="none" stroke="#333333" stroke-width="1"/>
+  <ellipse cx="135" cy="80" rx="60" ry="16" fill="none" stroke="#C8FF00" stroke-width="1.2"/>
+  <text x="75" y="125" fill="#EAEAEA" class="mono" font-size="11" font-weight="900" letter-spacing="3">GRIDLINE</text>
+  <text x="15" y="172" fill="#EAEAEA" class="mono" font-size="12" font-weight="800">GRIDLINE</text>
+  <text x="15" y="190" fill="#7E7E7E" class="mono" font-size="10">WEB EXPERIENCE</text>
+  <text x="240" y="190" fill="#C8FF00" class="mono" font-size="16" font-weight="bold">↗</text>
+</svg>

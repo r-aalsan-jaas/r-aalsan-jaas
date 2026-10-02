@@ -1,1 +1,13 @@
-
+<svg width="270" height="230" viewBox="0 0 270 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>.mono { font-family: monospace; }</style>
+  <rect width="270" height="230" fill="#0D0D0D" stroke="#222222" stroke-width="1.2"/>
+  <rect x="15" y="15" width="240" height="130" fill="#0A0A0A" stroke="#1C1C1C"/>
+  <line x1="15" y1="15" x2="135" y2="80" stroke="#333333"/>
+  <line x1="255" y1="15" x2="135" y2="80" stroke="#333333"/>
+  <line x1="15" y1="145" x2="135" y2="80" stroke="#333333"/>
+  <line x1="255" y1="145" x2="135" y2="80" stroke="#333333"/>
+  <polygon points="135,50 165,100 105,100" fill="none" stroke="#C8FF00" stroke-width="1.5"/>
+  <text x="15" y="172" fill="#EAEAEA" class="mono" font-size="12" font-weight="800">NEURAL_NET</text>
+  <text x="15" y="190" fill="#7E7E7E" class="mono" font-size="10">AI PLATFORM</text>
+  <text x="240" y="190" fill="#C8FF00" class="mono" font-size="16" font-weight="bold">↗</text>
+</svg>
