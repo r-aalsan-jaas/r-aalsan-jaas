@@ -1,13 +1,19 @@
+<!-- CYBER BRUTALIST TOP HUD -->
 <div align="center">
-  <a href="https://github.com/r-aalsan-jaas">
-    <img src="./assets/header.svg" width="100%" alt="Header" />
-  </a>
+  <img src="./assets/header_v3.svg" width="100%" alt="Header HUD" />
 </div>
 
+<!-- SEAMLESS CLICKABLE NAVIGATION GRID -->
 <div align="center">
-
-`// NAV_DOCK: ACTIVE` &nbsp;&nbsp;&nbsp; [![Explore Work](https://img.shields.io/badge/EXPLORE_WORK-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00)](#03-selected-work) &nbsp;&nbsp; [![Core Principles](https://img.shields.io/badge/CORE_PRINCIPLES-%5B%5D-111111?style=for-the-badge&logoColor=C8FF00&labelColor=111111)](#02-core-principles) &nbsp;&nbsp; [![Start Project](https://img.shields.io/badge/START_PROJECT-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00)](mailto:your-email@example.com)
-
+  <a href="https://github.com/r-aalsan-jaas?tab=repositories">
+    <img src="./assets/btn_explore.svg" width="33.3%" alt="Explore Work" style="display:inline-block; border:none;" />
+  </a>
+  <a href="#02-core-principles">
+    <img src="./assets/btn_principles.svg" width="33.3%" alt="Manifesto" style="display:inline-block; border:none;" />
+  </a>
+  <a href="mailto:your-actual-email@gmail.com">
+    <img src="./assets/btn_contact.svg" width="33.3%" alt="Start Project" style="display:inline-block; border:none;" />
+  </a>
 </div>
 
 <br/>
