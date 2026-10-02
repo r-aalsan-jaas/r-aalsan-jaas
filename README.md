@@ -22,12 +22,13 @@
 
 <!-- ==================== /03 SELECTED WORK ==================== -->
 <a name="03-selected-work"></a>
-### `/03` SELECTED WORK
+<div align="center">
+  <a href="https://github.com/r-aalsan-jaas?tab=repositories">
+    <img src="./assets/work.svg" width="100%" alt="Selected Work" />
+  </a>
+</div>
 
-| [![](./assets/card_data_portal.svg)](https://github.com/r-aalsan-jaas/canteen-management) | [![](./assets/card_neural_net.svg)](https://github.com/r-aalsan-jaas/Make-Up-a-Letter) | [![](./assets/card_void_system.svg)](https://github.com/r-aalsan-jaas) | [![](./assets/card_gridline.svg)](https://github.com/r-aalsan-jaas) |
-| :---: | :---: | :---: | :---: |
-
----
+<br/>
 
 <!-- ==================== /04, /05, /06 TERMINAL DECK ==================== -->
 
@@ -37,7 +38,6 @@
 
 <br/>
 
-<!-- ==================== FOOTER ==================== -->
 ```text
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 //  CYBR_STUDIO © 2026           |  STATUS: ACCESS GRANTED_          |  NODE: LON • NY • TYO • BER//
