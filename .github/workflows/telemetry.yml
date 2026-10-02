@@ -10,12 +10,15 @@ permissions:
 
 jobs:
   refresh-telemetry:
-    runs-on: ubuntu-latest
+    # Use a stable pinned Ubuntu image (e.g., 24.04) instead of 'latest'
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout Repository
+        # You are using the latest stable v4, which will continue working.
         uses: actions/checkout@v4
 
       - name: Set up Python
+        # You are using the latest stable v5, which will continue working.
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
