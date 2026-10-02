@@ -1,0 +1,32 @@
+name: Update Cyber Deck Telemetry
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Telemetry Updater
+        run: python update_deck.py
+
+      - name: Commit and Push Updated SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/bottom_deck.svg
+          git commit -m "telemetry: update live metrics" || exit 0
+          git push
