@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- ==================== /02 CORE PRINCIPLES VECTOR ==================== -->
+<!-- ==================== /02 CORE PRINCIPLES ==================== -->
 <a name="02-core-principles"></a>
 <div align="center">
   <img src="./assets/principles.svg" width="100%" alt="Core Principles" />
@@ -22,13 +22,11 @@
 
 <!-- ==================== /03 SELECTED WORK ==================== -->
 <a name="03-selected-work"></a>
-### `/03` SELECTED WORK
-
-| `[01]` **DATA_PORTAL** | `[02]` **NEURAL_NET** | `[03]` **VOID_SYSTEM** | `[04]` **GRIDLINE** |
-| :--- | :--- | :--- | :--- |
-| 📊 **DASHBOARD DESIGN** | 🧠 **AI PLATFORM** | 🔲 **BRANDING SYSTEM** | 🌐 **WEB EXPERIENCE** |
-| Scalable data telemetry and real-time visualization. | Machine intelligence pipelines and edge inference. | Brutalist identity system and asset architecture. | Interactive high-contrast web infrastructure. |
-| [**`EXPLORE WORK ↗`**](https://github.com/r-aalsan-jaas?tab=repositories) | [**`EXPLORE WORK ↗`**](https://github.com/r-aalsan-jaas?tab=repositories) | [**`EXPLORE WORK ↗`**](https://github.com/r-aalsan-jaas?tab=repositories) | [**`EXPLORE WORK ↗`**](https://github.com/r-aalsan-jaas?tab=repositories) |
+<div align="center">
+  <a href="https://github.com/r-aalsan-jaas?tab=repositories">
+    <img src="./assets/work.svg" width="100%" alt="Selected Work" />
+  </a>
+</div>
 
 <br/>
 
