@@ -15,7 +15,7 @@ try:
         public_repos = data.get("public_repos", 0)
         followers = data.get("followers", 0)
 except Exception:
-    public_repos = 2
+    public_repos = 12
     followers = 2
 
 # 2. Get current UTC timestamp
@@ -26,8 +26,7 @@ time_str = now.strftime("%H:%M:%S UTC")
 with open("assets/bottom_deck.svg", "r", encoding="utf-8") as f:
     content = f.read()
 
-# 4. Inject live values into the SVG text fields
-# Replaces whatever is in the UPTIME and MEMORY text lines with live data
+# 4. Inject live values cleanly into the right-aligned text fields
 content = re.sub(
     r'(<text[^>]*>\s*UPTIME\s*</text>.*?<text[^>]*>)(.*?)(</text>)',
     rf'\g<1>{time_str}\g<3>',
@@ -37,7 +36,7 @@ content = re.sub(
 
 content = re.sub(
     r'(<text[^>]*>\s*MEMORY\s*</text>.*?<text[^>]*>)(.*?)(</text>)',
-    rf'\g<1>{public_repos} REPOS // {followers} FOLLOWERS\g<3>',
+    rf'\g<1>{public_repos} REPOS // {followers} FOLL\g<3>',
     content,
     flags=re.DOTALL
 )
