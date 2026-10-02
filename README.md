@@ -29,14 +29,15 @@
 
 ---
 
-### `/04` JOIN THE RESISTANCE &nbsp;&nbsp; | &nbsp;&nbsp; `/05` SYSTEM STATUS &nbsp;&nbsp; | &nbsp;&nbsp; `/06` SUBSCRIBE
+<!-- ==================== /04, /05, /06 TERMINAL DECK ==================== -->
 
-| 🚀 `/04` JOIN THE RESISTANCE | 📡 `/05` SYSTEM STATUS | 📬 `/06` SUBSCRIBE TO SIGNAL |
-| :--- | :--- | :--- |
-| Cyber Brutalism is more than a style.<br/>It is a statement.<br/>Let us build the future together.<br/><br/>[![Let's Build](https://img.shields.io/badge/LET'S_BUILD-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00)](mailto:your-email@example.com) | [![Status](https://github-readme-stats.vercel.app/api?username=r-aalsan-jaas&show_icons=true&theme=dark&bg_color=050505&title_color=C8FF00&text_color=EAEAEA&icon_color=C8FF00&border_color=222222&hide_border=false)](https://github.com/r-aalsan-jaas)<br/><br/>`[ ALL SYSTEMS OPERATIONAL ]` | Updates on trends, drops, and experiments directly from the lab terminal.<br/><br/>[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00)](https://github.com/r-aalsan-jaas?tab=followers) |
+| `[04]` **JOIN THE RESISTANCE** | `[05]` **SYSTEM STATUS** | `[06]` **SUBSCRIBE TO SIGNAL** |
+| :--- | :---: | :--- |
+| Cyber Brutalism is raw, digital, and functional.<br/>A new visual language for the machine age.<br/><br/>Let us build the future together.<br/><br/>[![Let's Build](https://img.shields.io/badge/LET'S_BUILD-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00)](mailto:your-email@example.com) | [![Status](https://github-readme-stats.vercel.app/api?username=r-aalsan-jaas&show_icons=true&theme=dark&bg_color=050505&title_color=C8FF00&text_color=EAEAEA&icon_color=C8FF00&border_color=222222&hide_border=false)](https://github.com/r-aalsan-jaas)<br/><br/>`[ ALL SYSTEMS OPERATIONAL ]` | Updates on trends, drops, architecture, and telemetry experiments.<br/><br/>Directly from the lab terminal.<br/><br/>[![Subscribe](https://img.shields.io/badge/SUBSCRIBE-%E2%86%97-C8FF00?style=for-the-badge&logoColor=000000&labelColor=C8FF00)](https://github.com/r-aalsan-jaas?tab=followers) |
 
 <br/>
 
+<!-- ==================== FOOTER ==================== -->
 ```text
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 //  CYBR_STUDIO © 2026           |  STATUS: ACCESS GRANTED_          |  NODE: LON • NY • TYO • BER//
