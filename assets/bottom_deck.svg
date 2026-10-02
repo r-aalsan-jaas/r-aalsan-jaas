@@ -48,12 +48,12 @@
 
     <!-- Telemetry Bar 2 -->
     <text x="25" y="115" class="mono muted" font-size="11">MEMORY</text>
-    <line x1="90" y1="112" x2="200" y2="112" stroke="#222222"/>
+    <line x1="85" y1="112" x2="190" y2="112" stroke="#222222"/>
     <text x="345" y="115" class="mono light" font-size="11" text-anchor="end">12 REPOS // 2 FOLL</text>
 
     <!-- Telemetry Bar 3 -->
     <text x="25" y="145" class="mono muted" font-size="11">UPTIME</text>
-    <line x1="90" y1="142" x2="230" y2="142" stroke="#222222"/>
+    <line x1="85" y1="142" x2="215" y2="142" stroke="#222222"/>
     <text x="345" y="145" class="mono light" font-size="11" text-anchor="end">12:31:26 UTC</text>
 
     <!-- Telemetry Bar 4 -->
